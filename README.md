@@ -7,7 +7,7 @@ Licensed under the GNU General Public License 3.0.
 # How to Use:
 (FYI. THERE IS NO ACTUAL SOURCE CODE YET! THIS IS AN ESTIMATE OF HOW IT MIGHT WORK)
 
-To install Flash, first clone the repository: ```bash git clone https://github.com/codingelephants-gpt/flash.git/```
+To install Flash, first clone the repository: ```git clone https://github.com/codingelephants-gpt/flash.git/```
 After that, you can do one of the following two options:
 1. Move to local PATH
 2. Move to global PATH
